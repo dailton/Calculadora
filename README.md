@@ -1,4 +1,9 @@
-# Calculadora
-Calculadora na web
+packege main.java.calculadora;
 
-DAILTON FERREIRA
+public class Soma {
+	public int calc(int x, int y) {
+		return x + y ;
+	
+
+	}
+}
